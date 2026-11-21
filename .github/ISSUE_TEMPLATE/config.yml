@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Hello documentation
+    url: https://lakshyapocketlab.com/docs/
+    about: Guides and API reference.
+  - name: Email support
+    url: mailto:support@lakshyapocketlab.com
+    about: Account, billing or security questions. Please do not post secrets in issues.

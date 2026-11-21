@@ -1,0 +1,31 @@
+name: Bug report
+description: Something is not working as documented.
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Never include API keys (`hello_live_...`) or customer data. For security issues, email support@lakshyapocketlab.com instead.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you expect, and what happened instead?
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      description: A minimal snippet or request that shows the problem.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: SDK or API version
+      placeholder: e.g. hello-node 0.1.0, Node 20
+  - type: textarea
+    id: logs
+    attributes:
+      label: Error output
+      render: shell
