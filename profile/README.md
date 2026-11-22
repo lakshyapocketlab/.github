@@ -25,11 +25,13 @@ Hello gives your software a voice on WhatsApp. It is infrastructure, not an inbo
 
 | Your number, on the official platform | One endpoint, every message | Delivery you can see |
 |---|---|---|
-| Onboard through Meta's Embedded Signup in minutes. Your WhatsApp Business app keeps working, on the same number. | Templates, text, media, documents, location and contacts, through one consistent API. | Every message returns an ID and reports its journey: queued, sent, delivered, read. When one fails, you see why. |
+| Onboard through Meta's Embedded Signup in minutes. With [WhatsApp coexistence](https://lakshyapocketlab.com/whatsapp-coexistence/), your WhatsApp Business app keeps working on the same number. | Templates, text, media, documents, location and contacts, through one consistent API. | Every message returns an ID and reports its journey: queued, sent, delivered, read. When one fails, you see why. |
 
 **Replies, straight to your server.** With Direct webhook, Meta delivers incoming messages and status updates to your own endpoint.
 
 **Meta's rates, unmarked.** WhatsApp message charges are billed by Meta directly, at Meta's published rates. Hello adds no markup.
+
+**One WhatsApp account per customer.** The [Hello Partner Program](https://lakshyapocketlab.com/partners/) lets SaaS platforms and B2B companies give each of their customers their own WhatsApp Business account, managed from one dashboard.
 
 ## Built for the moments that matter
 
