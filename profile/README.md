@@ -11,7 +11,6 @@
 **Connect your number to Meta's official API. Send through one endpoint, receive replies on your own server, and follow every message to *read*.**
 
 [![Website](https://img.shields.io/badge/Website-lakshyapocketlab.com-03A84E?style=for-the-badge)](https://lakshyapocketlab.com)
-[![Dashboard](https://img.shields.io/badge/Get_your_API_key-hello.lakshyapocketlab.com-111827?style=for-the-badge)](https://hello.lakshyapocketlab.com)
 [![Docs](https://img.shields.io/badge/Docs-read_the_guide-2563EB?style=for-the-badge)](https://lakshyapocketlab.com/docs/)
 
 *Official Meta Tech Provider &nbsp;·&nbsp; One month on us, no card required.*
