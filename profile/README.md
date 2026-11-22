@@ -131,7 +131,7 @@ with Hello() as client:  # reads HELLO_API_KEY
 Hello runs a Model Context Protocol server in front of the API. Connect Claude, Cursor or Codex, then send messages, check delivery and manage templates by asking. The server uses Streamable HTTP and authenticates with your API key as a Bearer token.
 
 ```bash
-claude mcp add --transport http hello "https://api.lakshyapocketlab.com/mcp" \
+claude mcp add --transport http hello "https://helloapi.lakshyapocketlab.com/mcp" \
   --header "Authorization: Bearer $HELLO_API_KEY"
 ```
 
