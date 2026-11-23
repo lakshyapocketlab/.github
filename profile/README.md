@@ -1,17 +1,19 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="../assets/hello-logo-on-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="../assets/hello-logo.svg">
-  <img alt="Hello" src="../assets/hello-logo.svg" height="64">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lakshyapocketlab/.github/main/assets/hello-logo-on-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lakshyapocketlab/.github/main/assets/hello-logo.svg">
+  <img alt="Hello" src="https://raw.githubusercontent.com/lakshyapocketlab/.github/main/assets/hello-logo.svg" height="64">
 </picture>
 
-# The official WhatsApp Business API for businesses, software and AI agents.
+# The official WhatsApp Business API for businesses, SaaS platforms and AI agents.
 
 **Connect your number to Meta's official API. Send through one endpoint, receive replies on your own server, and follow every message to *read*.**
 
 [![Website](https://img.shields.io/badge/Website-lakshyapocketlab.com-03A84E?style=for-the-badge)](https://lakshyapocketlab.com)
 [![Docs](https://img.shields.io/badge/Docs-read_the_guide-2563EB?style=for-the-badge)](https://lakshyapocketlab.com/docs/)
+[![Coexistence](https://img.shields.io/badge/Coexistence-app_%2B_API-25D366?style=for-the-badge)](https://lakshyapocketlab.com/whatsapp-coexistence/)
+[![Partners](https://img.shields.io/badge/Partner_Program-SaaS_%26_B2B-7C3AED?style=for-the-badge)](https://lakshyapocketlab.com/partners/)
 
 *Official Meta Tech Provider &nbsp;·&nbsp; One month on us, no card required.*
 
@@ -31,7 +33,25 @@ Hello gives your software a voice on WhatsApp. It is infrastructure, not an inbo
 
 **Meta's rates, unmarked.** WhatsApp message charges are billed by Meta directly, at Meta's published rates. Hello adds no markup.
 
-**One WhatsApp account per customer.** The [Hello Partner Program](https://lakshyapocketlab.com/partners/) lets SaaS platforms and B2B companies give each of their customers their own WhatsApp Business account, managed from one dashboard.
+## WhatsApp coexistence: keep the app, add the API
+
+Already using the WhatsApp Business app? Keep it. With coexistence, the same number works in the app **and** on the API at the same time:
+
+- Your team keeps chatting from the WhatsApp Business app on their phones.
+- Your software sends order updates, reminders and passcodes through Hello.
+- Chat history and contacts stay on the number. No new number, no migration.
+
+[How coexistence works →](https://lakshyapocketlab.com/whatsapp-coexistence/)
+
+## Hello Partner Program: WhatsApp for every one of your customers
+
+For SaaS platforms, agencies and B2B companies that want to offer WhatsApp inside their own product:
+
+- **One WhatsApp Business account per customer**, each on its own number, so one customer's quality rating never affects another's.
+- **Onboard customers in minutes** through Meta's Embedded Signup, and manage them all from one dashboard.
+- **Build once** on the same API, SDKs and MCP server you already use.
+
+[Become a partner →](https://lakshyapocketlab.com/partners/)
 
 ## Built for the moments that matter
 
@@ -146,6 +166,8 @@ Setup for Claude Code, Claude Desktop, Cursor, VS Code, Windsurf and Codex is in
 | **Website** | [lakshyapocketlab.com](https://lakshyapocketlab.com) |
 | **Dashboard and API keys** | [hello.lakshyapocketlab.com](https://hello.lakshyapocketlab.com) |
 | **Docs** | [lakshyapocketlab.com/docs](https://lakshyapocketlab.com/docs/) |
+| **Coexistence** | [lakshyapocketlab.com/whatsapp-coexistence](https://lakshyapocketlab.com/whatsapp-coexistence/) |
+| **Partner Program** | [lakshyapocketlab.com/partners](https://lakshyapocketlab.com/partners/) |
 | **Quickstart** | [lakshyapocketlab.com/docs/getting-started/quickstart](https://lakshyapocketlab.com/docs/getting-started/quickstart/) |
 | **Support** | [support@lakshyapocketlab.com](mailto:support@lakshyapocketlab.com) |
 
